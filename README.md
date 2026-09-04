@@ -9,9 +9,9 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   
-  - 💬 My name is Matheus, I’m from Brazil, and I’m 24 years old. I have an intermediate level of English and am constantly striving to reach an advanced level. I have experience with tools like Figma and Illustrator, where I learned at SAGA, a pioneer in game development education. Currently, I work as a UX/UI Designer and Graphic Designer at a smart solutions company called Nocobi, where we focus on developing applications and reports using Microsoft Power Platform. I have been on this journey for a little over a year, and it has been fantastic. I value interpersonal relationships for generating new ideas and knowledge that can help elevate our work to a new level.
+  - 💬 My name is Matheus, I’m from Brazil, and I’m 26 years old. I have an intermediate level of English and am constantly striving to reach an advanced level. I have experience with tools like Figma and Illustrator, where I learned at SAGA, a pioneer in game development education. Currently, I work as a UX/UI Designer and Graphic Designer at a smart solutions company called Nocobi, where we focus on developing applications and reports using Microsoft Power Platform. I have been on this journey for a little over a year, and it has been fantastic. I value interpersonal relationships for generating new ideas and knowledge that can help elevate our work to a new level.
 
-  - ⚡ I enjoy spending my free time reading books, comics, and manga. I also love playing guitar, listening to music, and watching series.
+  - ⚡ I enjoy spending my free time reading books and comics. I also love playing guitar, listening to music, and watching series.
 
 A few of my favorites...
 
