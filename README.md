@@ -17,14 +17,9 @@ A few of my favorites...
 
 <p align="center">
   <img src="https://res.cloudinary.com/dnwltdgry/image/upload/v1728007780/PinkFloydhubg_vo97in.png" width="200" />
-  <img src="https://res.cloudinary.com/dnwltdgry/image/upload/v1728007780/PinkFloydhubg_vo97in.png" width="200" />
-  <img src="https://res.cloudinary.com/dnwltdgry/image/upload/v1728007780/PinkFloydhubg_vo97in.png" width="200" />
-  <img src="https://res.cloudinary.com/dnwltdgry/image/upload/v1728007780/PinkFloydhubg_vo97in.png" width="200" />
 </p>
 
 </details>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22hn4wwaqv3vb5vtrggkoqusi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](matheusn.frank@outlook.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheusfrankn@gmail.com)
